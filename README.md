@@ -219,6 +219,6 @@ http://localhost:5173
 
 <div align="center">
 
-Desenvolvido por **SEU NOME**
+Feito por <a href="https://github.com/luizmouradc">Luiz Inácio</a>
 
 </div>
