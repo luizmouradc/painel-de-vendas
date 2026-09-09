@@ -105,25 +105,40 @@ painel-de-vendas/
 
 ### Visão geral
 
-<!-- Adicione aqui o print da tela principal -->
+<img
+  src="https://github.com/user-attachments/assets/69229138-6940-478f-a9ac-57370d5f14d2"
+  alt="Tela de visão geral"
+  width="900"
+/>
 
-<br><br>
+<br>
 
 ### Clientes
 
-<!-- Adicione aqui o print da tela de clientes -->
+<img
+  src="https://github.com/user-attachments/assets/e9c364c2-ef97-40b8-bce7-d6f4d776ba88"
+  alt="Tela de visão geral"
+  width="900"
+/>
 
-<br><br>
+<br>
 
 ### Produtos
+<img
+  src="https://github.com/user-attachments/assets/88f9b669-a68b-4f68-8d79-eaac76fc381e"
+  alt="Tela de visão geral"
+  width="900"
+/>
 
-<!-- Adicione aqui o print da tela de produtos -->
-
-<br><br>
+<br>
 
 ### Vendas
 
-<!-- Adicione aqui o print da tela de vendas -->
+<img
+  src="https://github.com/user-attachments/assets/4761a13d-3799-4ca8-90f4-7ea46f6c7f38"
+  alt="Tela de visão geral"
+  width="900"
+/>
 
 </div>
 
