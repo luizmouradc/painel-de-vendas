@@ -1,0 +1,7 @@
+cliente,produto,categoria,quantidade,preco_unitario,cidade,faturamento,faixa_venda
+Ana Silva,Teclado Mecânico,Periféricos,2,250.0,Campina Grande,500.0,alto
+Bruno Souza,Mouse sem fio,Periféricos,1,120.0,João Pessoa,120.0,medio
+Carla Lima,Monitor 24,Monitores,2,780.0,Recife,1560.0,alto
+Daniel Costa,Webcam Full HD,Periféricos,1,210.0,Campina Grande,210.0,medio
+Eva Santos,SSD 1TB,Armazenamento,3,430.0,Natal,1290.0,alto
+Gabi Rocha,SSD 1TB,Armazenamento,1,430.0,João Pessoa,430.0,medio
